@@ -16,9 +16,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @EnableFeignClients
 @SpringBootApplication
 public class LabProjetoSpringApplication {
-
     public static void main(String[] args) {
         SpringApplication.run(LabProjetoSpringApplication.class, args);
     }
-
 }
